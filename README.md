@@ -14,5 +14,5 @@
 ### En plus, il marque tous les pièce dont il y a des mouvements et les états des portes accédé à l'extérieur (O/F).
 
 ## La système de température :
-### On peut sélectionner une température, les chauffages vont fonctionner si la température actuelle n’est pas assez élevé.
+### On peut sélectionner une température, les chauffages vont fonctionner si la température actuelle n’est pas assez élevé. si on ouvre la mode d'économie d'energie, la system de temperature va controller le temperature de chaque piece selon la nombre de fois qu'on entre tous les pieces
 
