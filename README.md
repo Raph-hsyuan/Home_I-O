@@ -1,3 +1,4 @@
+Demo: [Youtube](https://www.youtube.com/watch?v=emioXA7Z2mA)
 ## Le système de lumière:
 ### Des lumières extérieurs  sont réglés par la luminosité dehors. Quand la luminosité d'environnement est assez sombre, les lumières extérieur sont ouvert automatiquement. Quand la luminosité d'environnement est assez clair, ils sont fermé automatiquement . Pendant la nuit , les lumière est plus sombre de 22h à 6h lendemain pour économiser l'énergie.
 ### Des lumières intérieur sont réglé pas 2 mode. dans la mode automatique, des lumières sont allumés quand il y a des mouvement et sont eteints quand il n'y a pas de mouvement dans 10sec. Dans la mode manuel, des lumières dans chaque pièce  sont allumés et eteints par leur propres boutons. Du coup, si on ouvre  la mode d'économie d'energie, la luminosité est réglée automatiquement selon la luminosité d’environnement. Plus l'environnement est lumineux, plus les lumières sont sombres
